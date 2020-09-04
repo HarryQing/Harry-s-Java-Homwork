@@ -69,3 +69,4 @@ public class wyq_1 {
 		return number;
 	}
 }
+
